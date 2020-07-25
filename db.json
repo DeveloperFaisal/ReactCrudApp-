@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "name": "Faisal",
+      "username": "mdf93011",
+      "email": "mdf93011@gmail.com",
+      "phone": "01956075465",
+      "id": 1
+    },
+    {
+      "name": "Forhad",
+      "username": "Forhad12345",
+      "email": "forhad@gmail.com",
+      "phone": "01700110044",
+      "id": 2
+    },
+    {
+      "name": "nadim mama",
+      "username": "djnadim",
+      "email": "nadim@gmail.com",
+      "phone": "01726814277",
+      "id": 3
+    },
+    {
+      "name": "Faisal hossin",
+      "username": "admin",
+      "email": "kosar87026@inmail3.com",
+      "phone": "01956075563",
+      "id": 4
+    },
+    {
+      "name": "Rajib",
+      "username": "rajib12242",
+      "email": "rajib@gmail.com",
+      "phone": "01956075563",
+      "id": 5
+    }
+  ]
+}
