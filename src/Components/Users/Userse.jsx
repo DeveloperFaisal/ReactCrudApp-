@@ -43,6 +43,6 @@ const Userse = () => {
 
         </>
 
-    )
+    );
 };
 export default Userse;
